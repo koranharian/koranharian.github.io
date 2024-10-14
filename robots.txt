@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaltimpos.github.io/jurnal/sitemap.xml
